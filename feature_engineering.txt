@@ -1,0 +1,29 @@
+'end_time', 'fight_date', 'method', 'referee', 'round', 'time_format', 'weightclass', 'winner', 'gender', 'year'
+
+
+
+
+
+
+'f1_body', 'f1_clinch', 'f1_control', 'f1_distance', 'f1_dob', 
+'f1_ground', 'f1_head', 'f1_height', 'f1_kd', 'f1_leg', 'f1_reach', 'f1_record', 'f1_rev', 'f1_sapm', 'f1_sig_str',
+'f1_sig_str_%', 'f1_slpm', 'f1_stance', 'f1_str__acc_', 'f1_str__def', 'f1_sub__avg_', 'f1_sub_att', 'f1_td', 'f1_td_%', 'f1_td_acc_', 'f1_td_avg_', 'f1_td_def_', 'f1_total_str', 'f1_weight',
+
+'f2_body','f2_clinch', 'f2_control', 'f2_distance', 'f2_dob',
+'f2_ground','f2_head', 'f2_height', 'f2_kd', 'f2_leg', 'f2_reach', 'f2_record','f2_rev', 'f2_sapm', 'f2_sig_str', 
+'f2_sig_str_%', 'f2_slpm', 'f2_stance', 'f2_str__acc_', 'f2_str__def', 'f2_sub__avg_','f2_sub_att', 'f2_td', 'f2_td_%', 'f2_td_acc_', 'f2_td_avg_','f2_td_def_', 'f2_total_str', 'f2_weight'
+
+
+
+
+
+'f2_record',
+'f2_height', 'f2_weight','f2_reach', 'f2_stance','f2_dob',
+'f2_slpm','f2_str__acc_','f2_sapm','f2_str__def','f2_td_avg_','f2_td_acc_','f2_td_def_', 'f2_sub__avg_', 
+
+
+f2_kd','f2_sig_str', 'f2_sig_str_%', 'f2_total_str', 'f2_td', 'f2_td_%', 'f2_sub_att', 'f2_rev',   'f2_control', 
+'f2_head','f2_body', 'f2_leg','f2_distance', 'f2_clinch', 'f2_ground',
+
+
+
