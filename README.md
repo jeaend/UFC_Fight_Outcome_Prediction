@@ -31,9 +31,8 @@ This project is intended for educational purposes and personal use only. The ana
 - **Milestone 1**: Completion of data collection
 - **Milestone 2**: Data preprocessing finished
 - **Milestone 3**: Identification of fighter style clusters
-- **Milestone 4**: Development of initial predictive model
-- **Milestone 5**: Model evaluation and refinement
-- **Milestone 6**: Final report and presentation of findings
+- **Milestone 4**: Development of predictive model
+- **Milestone 5**: Final report and presentation of findings
 
 ## Resources and Tools
 - **Data Sources**: 
