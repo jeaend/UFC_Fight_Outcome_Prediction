@@ -1,33 +1,33 @@
 Weight Class,Winner Cluster,0,1,2,3
-featherweight,0,50.0,43.0,34.0,
-featherweight,1,57.0,50.0,25.0,
-featherweight,2,66.0,75.0,50.0,
-welterweight,0,50.0,51.0,44.0,
-welterweight,1,49.0,50.0,38.0,
-welterweight,2,56.0,62.0,50.0,
-middleweight,0,50.0,53.0,35.0,
-middleweight,1,47.0,50.0,32.0,
-middleweight,2,65.0,68.0,50.0,
-bantamweight,0,50.0,45.0,22.0,
-bantamweight,1,55.0,50.0,40.0,
-bantamweight,2,78.0,60.0,50.0,
-bantamweight,3,,,,
-strawweight,0,50.0,38.0,32.0,
-strawweight,1,62.0,50.0,13.0,
-strawweight,2,68.0,87.0,50.0,
-heavyweight,0,50.0,55.0,33.0,
-heavyweight,1,45.0,50.0,24.0,
-heavyweight,2,67.0,76.0,50.0,
-flyweight,0,50.0,52.0,28.0,
-flyweight,1,48.0,50.0,46.0,
-flyweight,2,72.0,54.0,50.0,
-lightweight,0,50.0,46.0,44.0,
-lightweight,1,54.0,50.0,44.0,
-lightweight,2,56.0,56.0,50.0,
-light heavyweight,0,50.0,50.0,23.0,
-light heavyweight,1,50.0,50.0,23.0,
-light heavyweight,2,77.0,77.0,50.0,
-all,0,50.0,48.0,35.0,
-all,1,52.0,50.0,34.0,
-all,2,65.0,66.0,50.0,
-all,3,,,,
+featherweight,0,0.5,0.43,0.34,0.0
+featherweight,1,0.57,0.5,0.25,0.0
+featherweight,2,0.66,0.75,0.5,0.0
+welterweight,0,0.5,0.51,0.44,0.0
+welterweight,1,0.49,0.5,0.38,0.0
+welterweight,2,0.56,0.62,0.5,0.0
+middleweight,0,0.5,0.53,0.35,0.0
+middleweight,1,0.47,0.5,0.32,0.0
+middleweight,2,0.65,0.68,0.5,0.0
+bantamweight,0,0.5,0.45,0.22,0.0
+bantamweight,1,0.55,0.5,0.4,0.0
+bantamweight,2,0.78,0.6,0.5,0.0
+bantamweight,3,0.0,0.0,0.0,0.0
+strawweight,0,0.5,0.38,0.32,0.0
+strawweight,1,0.62,0.5,0.13,0.0
+strawweight,2,0.68,0.87,0.5,0.0
+heavyweight,0,0.5,0.55,0.33,0.0
+heavyweight,1,0.45,0.5,0.24,0.0
+heavyweight,2,0.67,0.76,0.5,0.0
+flyweight,0,0.5,0.52,0.28,0.0
+flyweight,1,0.48,0.5,0.46,0.0
+flyweight,2,0.72,0.54,0.5,0.0
+lightweight,0,0.5,0.46,0.44,0.0
+lightweight,1,0.54,0.5,0.44,0.0
+lightweight,2,0.56,0.56,0.5,0.0
+light heavyweight,0,0.5,0.5,0.23,0.0
+light heavyweight,1,0.5,0.5,0.23,0.0
+light heavyweight,2,0.77,0.77,0.5,0.0
+all,0,0.5,0.48,0.35,0.0
+all,1,0.52,0.5,0.34,0.0
+all,2,0.65,0.66,0.5,0.0
+all,3,0.0,0.0,0.0,0.0
