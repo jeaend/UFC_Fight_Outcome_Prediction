@@ -34,12 +34,20 @@ This project is intended for educational purposes and personal use only. The ana
 - **Milestone 4**: Development of predictive model
 - **Milestone 5**: Final report and presentation of findings
 
-## Resources and Tools
-- **Data Sources**: 
-- **Tools and Libraries**: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebooks
+## Fighter Styles
 
-## Deliverables
-- Cleaned and preprocessed UFC dataset
-- Clustering analysis report with visualizations of fighter styles
-- Predictive model with performance metrics
-- Final report and presentation summarizing key findings and insights
+### Fighter Styles by Cluster
+
+| Metric       | Unbalanced Striker                        | Defensive Grappler                                  | Precision All-Rounder                    |
+|--------------|-------------------------------------------|-----------------------------------------------------|------------------------------------------|
+||**Fighters in this cluster are less effective in both striking and grappling, with significant weaknesses in takedown defense. They have balanced stances but struggle in overall combat efficiency.**|**These fighters excel in grappling, particularly in takedowns and submissions, and have strong defensive capabilities. They are slightly above average in striking but primarily focus on grappling.**|**This group consists of well-rounded fighters who are precise strikers and effective in grappling. They have above-average takedown accuracy and defense, making them versatile in different combat situations.**|
+| **Reach**    | Slightly below average                    | Below average                                       | Slightly below average                   |
+| **SLpM**     | Below average                             | Slightly above average                              | Below average                            |
+| **Str. Acc.**| Below average                             | Below average                                       | Above average                            |
+| **SApM**     | Average                                   | Significantly below average (strong defense)        | Below average                            |
+| **Str. Def.**| Below average                             | Above average (good at avoiding strikes)            | Slightly above average                   |
+| **TD Avg.**  | Below average                             | Significantly above average (effective grapplers)   | Above average                            |
+| **TD Acc.**  | Below average                             | Above average                                       | Significantly above average              |
+| **TD Def.**  | Significantly below average (vulnerable)  | Average                                             | Above average                            |
+| **Sub. Avg.**| Average                                   | Extremely high (strong focus on submissions)        | Average                                  |
+| **Stance**   | Slightly above average (mixed stances)    | Slightly above average (mixed stances)              | Slightly above average (mixed stances)   |
