@@ -51,3 +51,6 @@ This project is intended for educational purposes and personal use only. The ana
 | **TD Def.**  | Significantly below average (vulnerable)| Average                                           | Above average                                  |
 | **Sub. Avg.**| Average                               | Extremely high (strong focus on submissions)      | Average                                        |
 | **Stance**   | Slightly above average (mixed stances)| Slightly above average (mixed stances)            | Slightly above average (mixed stances)         |
+
+
+https://public.tableau.com/app/profile/jeanne.endres/viz/UFC_17170820193060/Cluster_Odds?publish=yes
